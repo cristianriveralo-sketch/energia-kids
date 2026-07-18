@@ -32,7 +32,7 @@
                 <span class="eyebrow">Ciencias para niños</span>
                 <div class="teacher-banner" aria-label="Información del docente y la temática">
                     <span class="teacher-banner-icon" aria-hidden="true">★</span>
-                    <div><strong>Tema de hoy: Tipos de energías</strong><span>Explora, juega y aprende con el Profe Oscar</span></div>
+                    <div><strong>Tema de hoy: Tipos de energías</strong><span>Explora, juega y aprende</span></div>
                 </div>
                 <h1>Descubre cómo la energía mueve el mundo.</h1>
                 <p class="hero-topic">Aprende con el Profe Oscar</p>
