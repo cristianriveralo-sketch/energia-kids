@@ -22,4 +22,4 @@ COPY --from=assets /app/public/build ./public/build
 RUN mkdir -p storage/framework/cache storage/framework/sessions storage/framework/views storage/logs bootstrap/cache \
     && chmod -R 775 storage bootstrap/cache
 EXPOSE 10000
-CMD sh -c "php -S 0.0.0.0:${PORT:-10000} -t public"
+CMD sh -c "php artisan optimize:clear && php -S 0.0.0.0:${PORT:-10000} -t public"
