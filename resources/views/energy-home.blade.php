@@ -29,12 +29,13 @@
     <main>
         <section class="hero-section">
             <div class="hero-copy">
-                <span class="eyebrow eyebrow-teacher">Aprende con el Profe Oscar</span>
+                <span class="eyebrow">Ciencias para niños</span>
                 <div class="teacher-banner" aria-label="Información del docente y la temática">
                     <span class="teacher-banner-icon" aria-hidden="true">★</span>
                     <div><strong>Tema de hoy: Tipos de energías</strong><span>Explora, juega y aprende con el Profe Oscar</span></div>
                 </div>
-                <h1>Descubre cómo la energía mueve el mundo.</h1>
+                <h1>Aprende con el Profe Oscar</h1>
+                <p class="hero-topic">Descubre cómo la energía mueve el mundo.</p>
                 <p>
                     Aprende con imágenes, ejemplos cortos y retos sobre la energía solar, eólica,
                     hidráulica y eléctrica.
